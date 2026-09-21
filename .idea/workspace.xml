@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ac9fb16-f242-4dbf-8c2a-a535bdb8d73e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/vinil/OneDrive/Documents/Curso-Java/PrimeiroPrograma" value="3EUruBhWFZN9nQKmAkT03AQEqN8" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ViniciusOliveiraDev2025"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ViniciusOliveiraDev2025/Estudo-Linguagem-Java.git",
+    "accountId": "3a91b4cc-6655-4d04-bc66-2e89dbc1bdea"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Classe/DataTeste.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.159085629280939E-285" />
+      <entry key="MS500" value="1.2586711550368595E-57" />
+      <entry key="S2" value="5.956320658399542E-15" />
+      <entry key="S5" value="2.041975323659805E-6" />
+      <entry key="S10" value="0.001451821096712208" />
+      <entry key="S30" value="0.16931816933623395" />
+      <entry key="S60" value="0.9832131535379773" />
+      <entry key="M2" value="3.460129230848202" />
+      <entry key="M5" value="8.862904058632123" />
+      <entry key="M10" value="12.837413751215793" />
+      <entry key="M15" value="14.881123969977201" />
+      <entry key="M30" value="18.3681295453784" />
+      <entry key="H1" value="22.474977418127615" />
+      <entry key="H2" value="26.586963646105623" />
+      <entry key="H4" value="29.72024692954388" />
+      <entry key="D1" value="33.18778970977283" />
+      <entry key="W1" value="33.8812443326841" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000154615" />
+      <entry key="S10" value="1.000012434468197" />
+      <entry key="S30" value="1.0238003770095838" />
+      <entry key="S60" value="1.1967920580441518" />
+      <entry key="M2" value="1.7884255600566348" />
+      <entry key="M5" value="3.269792267611109" />
+      <entry key="M10" value="4.555336624560891" />
+      <entry key="M15" value="5.340660245410118" />
+      <entry key="M30" value="6.896518824895876" />
+      <entry key="H1" value="8.913878950858816" />
+      <entry key="H2" value="11.032409094027667" />
+      <entry key="H4" value="12.690430146629527" />
+      <entry key="D1" value="14.558276126007337" />
+      <entry key="W1" value="14.93532283884202" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.340052154133643E-4" />
+      <entry key="MS500" value="0.21256854001604897" />
+      <entry key="S2" value="0.679007775328324" />
+      <entry key="S5" value="0.85654599101922" />
+      <entry key="S10" value="0.926776589274208" />
+      <entry key="S30" value="1.160944846492027" />
+      <entry key="S60" value="2.148284355795256" />
+      <entry key="M2" value="5.205153629025593" />
+      <entry key="M5" value="12.086198541395639" />
+      <entry key="M10" value="17.35773291540569" />
+      <entry key="M15" value="20.19438074138945" />
+      <entry key="M30" value="25.24730419913204" />
+      <entry key="H1" value="31.377561758588204" />
+      <entry key="H2" value="37.61217713908709" />
+      <entry key="H4" value="42.406436486674835" />
+      <entry key="D1" value="47.74523421377105" />
+      <entry key="W1" value="48.816444708912094" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EUruBhWFZN9nQKmAkT03AQEqN8" />
+  <component name="ProjectSessionTemplates">
+    <option name="inlineTemplate">
+      <template>
+        <option name="modeId" value="InlineAgent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ATT_AnoBissexto.executor": "Run",
+    "Application.ATT_IMC.executor": "Run",
+    "Application.ATT_JogoAdvinhacao.executor": "Run",
+    "Application.ATT_MaiorNumero.executor": "Run",
+    "Application.ATT_MediaNotas.executor": "Run",
+    "Application.ATT_NumeroPrimo.executor": "Run",
+    "Application.ATT_NumeroPrimoUsandoSWITCH.executor": "Run",
+    "Application.ATT_NumerosPares.executor": "Run",
+    "Application.ATT_SomaNumerosPares.executor": "Run",
+    "Application.ATT_Temperatura.executor": "Run",
+    "Application.ATT_Temperatura2.executor": "Run",
+    "Application.ATT_Triangulo.executor": "Run",
+    "Application.ATT_ValorCubo.executor": "Run",
+    "Application.DataTeste.executor": "Run",
+    "Application.DesafioDiaSemana.executor": "Run",
+    "Application.DesafioFor.executor": "Run",
+    "Application.DesafioWhile.executor": "Run",
+    "Application.Exercicio6.executor": "Run",
+    "Application.Jantar.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TesteVariavelForaMain.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/vinil/OneDrive/Documents/Curso-Java/PrimeiroPrograma/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ac9fb16-f242-4dbf-8c2a-a535bdb8d73e" name="Changes" comment="" />
+      <created>1780244210190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780244210190</updated>
+      <workItem from="1788980001074" duration="30000" />
+      <workItem from="1789950181224" duration="427000" />
+      <workItem from="1789950665713" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
