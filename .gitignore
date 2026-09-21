@@ -1,6 +1,8 @@
-.idea
-.gitignore
-Estudo-Java.iml
+# IntelliJ IDEA
+.idea/
 
-out
+# Arquivos do IntelliJ
+*.iml
 
+# Arquivos compilados
+out/
