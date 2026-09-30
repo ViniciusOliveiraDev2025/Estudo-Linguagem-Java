@@ -1,12 +1,10 @@
 package POO.HERANCA.Desafio1;
 
-import com.sun.tools.javac.Main;
-
 public class TesteCarros {
     public static void main(String[] args) {
-        Carro c1 = new Carro();
-        Lambo l1 = new Lambo();
-        Palio p1 = new Palio();
+        Carro c1 = new Carro(200);
+        Lambo l1 = new Lambo(250);
+        Palio p1 = new Palio(180);
 
         c1.acelerar();
         c1.acelerar();
@@ -14,6 +12,16 @@ public class TesteCarros {
         c1.acelerar();
         System.out.println("Velocidade do carro: " + c1.velocidadeAtual + " Km/h");
 
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
+        l1.acelerar();
         l1.acelerar();
         l1.acelerar();
         l1.acelerar();
